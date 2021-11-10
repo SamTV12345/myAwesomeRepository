@@ -8,8 +8,8 @@ Assignements:
   - Add files ✅
   - Modify a file✅
   - Delete a file✅
-  - Create a feature branch
-  - Modify a file
+  - Create a feature branch	✅
+  - Modify a file✅
   - Merge back the branch
 
 
