@@ -10,7 +10,7 @@ Assignements:
   - Delete a file✅
   - Create a feature branch	✅
   - Modify a file✅
-  - Merge back the branch
+  - Merge back the branch✅
 
 
 2. In groups of 2-3 people:
