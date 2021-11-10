@@ -7,7 +7,7 @@ Assignements:
  1. Create your own public git repo on GitHub.
   - Add files ✅
   - Modify a file✅
-  - Delete a file
+  - Delete a file✅
   - Create a feature branch
   - Modify a file
   - Merge back the branch
