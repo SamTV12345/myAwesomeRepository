@@ -5,7 +5,7 @@ BY far one of the best repositories
 Assignements:
 
  1. Create your own public git repo on GitHub.
-  - Add files
+  - Add files ✅
   - Modify a file
   - Delete a file
   - Create a feature branch
